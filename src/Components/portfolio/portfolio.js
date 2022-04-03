@@ -51,7 +51,7 @@ const portfolio = () => {
                   >
                     Github
                   </a>
-                  <a
+                  {/* <a
                     href={demo}
                     className="btn btn-primary"
                     target="_blank"
@@ -59,7 +59,7 @@ const portfolio = () => {
                   
                   >
                     Live Demo
-                  </a>
+                  </a> */}
                 </div>
               </article>
               )
