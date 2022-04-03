@@ -1,0 +1,42 @@
+[debug] [2022-04-03T15:05:00.879Z] ----------------------------------------------------------------------
+[debug] [2022-04-03T15:05:00.884Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\harsh1\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-03T15:05:00.885Z] CLI Version:   10.5.0
+[debug] [2022-04-03T15:05:00.886Z] Platform:      win32
+[debug] [2022-04-03T15:05:00.886Z] Node Version:  v16.13.1
+[debug] [2022-04-03T15:05:00.888Z] Time:          Sun Apr 03 2022 20:35:00 GMT+0530 (India Standard Time)
+[debug] [2022-04-03T15:05:00.889Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-03T15:05:00.953Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-03T15:05:00.954Z] > authorizing via signed-in user (harshpatel29301@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\harsh1\Desktop\react\harsh-portfolio-website
+
+[debug] [2022-04-03T16:48:10.558Z] ----------------------------------------------------------------------
+[debug] [2022-04-03T16:48:10.564Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\harsh1\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-03T16:48:10.565Z] CLI Version:   10.5.0
+[debug] [2022-04-03T16:48:10.565Z] Platform:      win32
+[debug] [2022-04-03T16:48:10.565Z] Node Version:  v16.13.1
+[debug] [2022-04-03T16:48:10.646Z] Time:          Sun Apr 03 2022 22:18:10 GMT+0530 (India Standard Time)
+[debug] [2022-04-03T16:48:10.647Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-03T16:48:10.714Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-03T16:48:10.715Z] > authorizing via signed-in user (harshpatel29301@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\harsh1\Desktop\react\harsh-portfolio-website
+

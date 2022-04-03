@@ -23,7 +23,7 @@ const about = () => {
             <article className="about__card">
               <FaUsers className="about__icon" />
               <h5>Profession</h5>
-              <small>React Developer</small>
+              <small>a student</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
