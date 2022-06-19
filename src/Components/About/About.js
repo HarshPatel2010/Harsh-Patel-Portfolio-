@@ -32,7 +32,8 @@ const about = () => {
             </article>
           </div>
           <p id="para">
-           Hey, I'm a Front-end Developer with experience in REACT.JS.The Purpose of JavaScript Mastery is to help aspiring and established new development skills and build awesome websites and mobile apps includes IOS.
+           Hey, I'm a Front-end Developer with experience in REACT.JS.The Purpose of JavaScript Mastery is to help aspiring and established new development skills and build awesome websites and mobile apps includes IOS.Moreover,I’m eager to learn new development skills/technologies like NEXT JS
+and WEB 3.0 ( Includes SANITY IO & SOLIDITY ) a part from this,I am quite good in Data Structure & Algorithms
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

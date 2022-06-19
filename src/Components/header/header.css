@@ -1,7 +1,8 @@
-.header{
+.header { 
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
+    /* width: var(--container-width-lg); */
 }
 .container.header__container{
     text-align: center;
@@ -32,7 +33,6 @@
     height: 2rem;
     background: var(--color-primary);
 }
-/*img*/
 .me{
     background: linear-gradient(var(--color-primary),transparent);
     width: 22rem;
